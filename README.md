@@ -46,7 +46,9 @@ I benchmarked three primary architectures:
 ## Visual Insights
 ### Fleet Allocation Matrix
 
-<img width="790" height="375" alt="taxi-heatmap" src="https://github.com/user-attachments/assets/1b1bb43a-8c9e-467a-8171-a22ca5384777" />
+<p align="center">
+  <img src="taxi-heatmap.png" width="650"/>
+</p>
 
 This heatmap identifies "Red Zones"—specifically midnight on weekends and late afternoon—where fleet availability must be maximized.
 ### Forecast Reliability
