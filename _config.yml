@@ -1,4 +1,4 @@
 remote_theme: pages-themes/midnight@v0.2.0
-title: "Service demand Forecaster"
+title: "Service Demand Forecaster"
 plugins:
   - jekyll-remote-theme
