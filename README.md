@@ -28,8 +28,6 @@ Accurate short-term demand forecasting enables:
 
 - More efficient and fair resource allocation.
 
-These challenges closely mirror capacity planning and scheduling problems in digital health and telehealth platforms, where reliability and trust in predictions are essential.
-
 ## Demand Patterns: Hourly & Weekly Intensity
 
 <p align="center">
